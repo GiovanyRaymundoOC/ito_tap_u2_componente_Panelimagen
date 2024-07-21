@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>Documentación de la clase <code>GuardarPanelComoImagen</code></h1>
+<h1>Documentación de la clase GuardarPanelComoImagen</code></h1>
 
 <h2>Descripción</h2>
 <p>Este componente Java permite guardar el contenido de un <code>JPanel</code> como una imagen en formato PNG. Está diseñado para ser usado en aplicaciones Java Swing, pudiendo ser añadido fácilmente a <code>JFrame</code> o <code>JDialog</code>.</p>
