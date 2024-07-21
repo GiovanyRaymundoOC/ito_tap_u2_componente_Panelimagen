@@ -165,6 +165,8 @@ if (selectorArchivo.showSaveDialog(panel) == JFileChooser.APPROVE_OPTION) {
     <li>Clona el repositorio con el siguiente comando:
         <pre><code>git clone https://github.com/GiovanyRaymundoOC/ito_tap_u2_componente_Panelimagen.git</code></pre>
     </li>
+    <img src="https://github.com/GiovanyRaymundoOC/ito_tap_u2_componente_Panelimagen/blob/master/Caps/Captura%20de%20pantalla%202024-07-21%20a%20la(s)%201.29.22%E2%80%AFp.m..png" alt="Clonar el repositorio" style="max-width: 100%;">
+    </li>
     <li>Importa el proyecto en tu IDE preferido (NetBeans o IntelliJ IDEA).</li>
     <li>Asegúrate de que el proyecto se compila sin errores.</li>
 </ol>
@@ -173,6 +175,18 @@ if (selectorArchivo.showSaveDialog(panel) == JFileChooser.APPROVE_OPTION) {
 <p>Para usar el componente en tu aplicación, sigue estos pasos:</p>
 <ol>
     <li>Agrega el componente a tu proyecto.</li>
+    <li>Dar click derecho en la paleta y palette manager</li>
+    <img src="https://github.com/GiovanyRaymundoOC/ito_tap_u2_componente_Panelimagen/blob/master/Caps/Captura%20de%20pantalla%202024-07-21%20a%20la(s)%201.30.55%E2%80%AFp.m..png" style="max-width: 100%;">
+    <li>Despues dar click en Add from JAR</li>
+    <img src="https://github.com/GiovanyRaymundoOC/ito_tap_u2_componente_Panelimagen/blob/master/Caps/Captura%20de%20pantalla%202024-07-21%20a%20la(s)%201.31.05%E2%80%AFp.m..png" style="max-width: 100%;">
+    <li>Buscamos en donde se guarde nuestro JAR y damos next</li>
+     <img src="https://github.com/GiovanyRaymundoOC/ito_tap_u2_componente_Panelimagen/blob/master/Caps/Captura%20de%20pantalla%202024-07-21%20a%20la(s)%201.31.46%E2%80%AFp.m..png" style="max-width: 100%;">
+    <li>Seleccionamos el componente GuardarPanelComoImagen y next</li>
+     <img src="https://github.com/GiovanyRaymundoOC/ito_tap_u2_componente_Panelimagen/blob/master/Caps/Captura%20de%20pantalla%202024-07-21%20a%20la(s)%201.34.23%E2%80%AFp.m..png" style="max-width: 100%;">
+    <li>Seleccionamos en que carpeta de la paleta podemos en componente y finish </li>
+    <img src="https://github.com/GiovanyRaymundoOC/ito_tap_u2_componente_Panelimagen/blob/master/Caps/Captura%20de%20pantalla%202024-07-21%20a%20la(s)%201.34.43%E2%80%AFp.m..png" style="max-width: 100%;">
+    <li>EL componente nos saldra en la paleta se la siguiente forma: </li>
+    <img src="https://github.com/GiovanyRaymundoOC/ito_tap_u2_componente_Panelimagen/blob/master/Caps/Captura%20de%20pantalla%202024-07-21%20a%20la(s)%201.53.33%E2%80%AFp.m..png" style="max-width: 100%;">
     <li>Llama al método <code>guardarPanelComoImagen</code> y pásale el <code>JPanel</code> que deseas guardar como imagen.</li>
 </ol>
 
