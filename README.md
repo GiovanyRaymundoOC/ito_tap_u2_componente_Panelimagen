@@ -163,7 +163,7 @@ if (selectorArchivo.showSaveDialog(panel) == JFileChooser.APPROVE_OPTION) {
 <p>Para utilizar este componente en tu proyecto, sigue estos pasos:</p>
 <ol>
     <li>Clona el repositorio con el siguiente comando:
-        <pre><code>git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git</code></pre>
+        <pre><code>git clone https://github.com/GiovanyRaymundoOC/ito_tap_u2_componente_Panelimagen.git</code></pre>
     </li>
     <li>Importa el proyecto en tu IDE preferido (NetBeans o IntelliJ IDEA).</li>
     <li>Asegúrate de que el proyecto se compila sin errores.</li>
