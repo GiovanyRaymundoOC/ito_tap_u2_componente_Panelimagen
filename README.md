@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Documentación GuardarPanelComoImagen</title>
 </head>
 <body>
 
@@ -89,7 +88,7 @@ public class GuardarPanelComoImagen {
 <h3>Explicación del Código</h3>
 
 <h4>Paquete y Importaciones</h4>
-<pre><code>package firma;
+<pre><code>package panelpng;
 
 import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
@@ -101,7 +100,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 </code></pre>
 <ul>
-    <li>Define el paquete <code>firma</code> y realiza las importaciones necesarias para manejar gráficos, imágenes, archivos y componentes de Swing.</li>
+    <li>Define el paquete <code>panelpng</code> y realiza las importaciones necesarias para manejar gráficos, imágenes, archivos y componentes de Swing.</li>
 </ul>
 
 <h4>Clase <code>GuardarPanelComoImagen</code></h4>
