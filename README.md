@@ -86,6 +86,7 @@ public class GuardarPanelComoImagen {
 </code></pre>
 
 <h3>Explicación del Código</h3>
+<li>Pueden visitar el siguiente video: https://youtu.be/xAkmzjIWtPI</li>
 
 <h4>Paquete y Importaciones</h4>
 <pre><code>package panelpng;
@@ -207,7 +208,7 @@ GuardarPanelComoImagen.guardarPanelComoImagen(miPanel);
 </ol>
 <h2>Autores</h2>
 <p>Ortiz Martinez Jose Julian
-<p>Olmedo Carbajal Giovany Raymundo</p>
+<p>Olmedo Carbajal Giovany Raymundo --> https://github.com/GiovanyRaymundoOC </p>
 
 </body>
 </
